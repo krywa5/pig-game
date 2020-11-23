@@ -1,6 +1,6 @@
 # Pig game
 Simple dice-based game for 2 players.
-# Try it
+## Try it
 [Play Pig game](https://krywa5.github.io/pig-game/)
 ## Game rules
 * The game has 2 players, playing in rounds
